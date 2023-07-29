@@ -11,7 +11,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-_Offered by **IBM Data Science Professional Certificate** on **Coursera**_
+_Offered by_ **IBM Data Science Professional Certificate** _on_ **Coursera** 
+
+$29^{th}$ July $2023$
+
 
 <img src="https://github.com/beatricemarrano/spacey/assets/93832250/bbf591d8-8f84-4b0f-954f-03037ff7235b" width="100" height="100">
 <img src="https://github.com/beatricemarrano/spacey/assets/93832250/a7ac9be8-f535-4213-a438-647bec69a89f" width="100" height="100">
